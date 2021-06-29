@@ -3,11 +3,11 @@
 
 - :trophy: I'm an Expert with more than **15 years experience in Testing** in different positions and roles
 
-- :mortar_board: I have a **Master Degree in Mathematics**
+- :mortar_board: I have a **Master's Degree in Mathematics**
 
 - :snowflake: I’m currently working in **the best international company** 
 
-- 🌱 I’m currently learning **Automation tools and practics with QA.guru**
+- 🌱 I’m currently learning **Automation tools and practices with QA.guru**
 
 - 📫 How to reach me: **neo[at]academ.org**
 
