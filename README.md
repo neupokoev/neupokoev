@@ -5,7 +5,7 @@
 
 - :mortar_board: I have a **Master's Degree in Applied Mathematics**
 
-- :snowflake: I’m currently working in **the best international company** 
+- :snowflake: I’m currently working remotely in **the best international company** 
 
 - 🌱 I’m currently learning **Automation tools and practices with QA.guru**
 
