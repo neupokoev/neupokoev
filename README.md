@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Evgeny Neupokoev</h1>
+<h1 align="center">Hi :sparkling_heart:, I'm Evgeny Neupokoev</h1>
 <h3 align="center">A passionate AQA Engineer from hot Siberia!</h3>
 
-- 🌱 I'm an Expert with more than **15 years experience in Testing** in different positions and roles
+- :trophy: I'm an Expert with more than **15 years experience in Testing** in different positions and roles
 
-- 🌱 I have a **Master Degree in Mathematics**
+- :mortar_board: I have a **Master Degree in Mathematics**
 
-- 🔭 I’m currently working in **the best international company**
+- :snowflake: I’m currently working in **the best international company** 
 
 - 🌱 I’m currently learning **Automation tools and practics with QA.guru**
 
