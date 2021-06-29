@@ -3,7 +3,7 @@
 
 - :trophy: I'm an Expert with more than **15 years experience in Testing** in different positions and roles
 
-- :mortar_board: I have a **Master's Degree in Mathematics**
+- :mortar_board: I have a **Master's Degree in Applied Mathematics**
 
 - :snowflake: I’m currently working in **the best international company** 
 
